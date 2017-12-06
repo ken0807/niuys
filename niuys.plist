@@ -19,16 +19,16 @@
                         <key>needs-shine</key>  
                         <true>  
                         <key>url</key>  
-                        <string>http://nysht.pm66.cn:8080/niuyuansu/logo/dlbg.png</string>  
+                        <string>http://nysht.pm66.cn:8080/niuyuansu/logo/dlbg.jpg</string>
                         </true>
-                    </dict>  
-                    <dict>  
-                        <key>kind</key>  
-                        <string>display-image</string>  
-                        <key>needs-shine</key>  
-                        <true>  
+                    </dict>
+                    <dict>
+                        <key>kind</key>
+                        <string>display-image</string>
+                        <key>needs-shine</key>
+                        <true>
                         <key>url</key>
-                        <string>http://nysht.pm66.cn:8080/niuyuansu/logo/icon.png</string>  
+                        <string>http://nysht.pm66.cn:8080/niuyuansu/logo/icon.png</string>
                         </true>
                     </dict>
                 </array>
