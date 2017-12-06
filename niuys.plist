@@ -13,6 +13,22 @@
                         <key>url</key>
                         <string>http://nysht.pm66.cn:8080/niuyuansu/download/Unity-iPhone-resigned.ipa</string>
                     </dict>
+                    <dict>  
+                        <key>kind</key>  
+                        <string>full-size-image</string>  
+                        <key>needs-shine</key>
+                        <true/>
+                        <key>url</key>  
+                        <string>http://nysht.pm66.cn:8080/niuyuansu/logo/icon.png</string>  
+                    </dict>  
+                    <dict>  
+                        <key>kind</key>  
+                        <string>display-image</string>  
+                        <key>needs-shine</key>
+                        <true/>
+                        <key>url</key>
+                        <string>http://nysht.pm66.cn:8080/niuyuansu/logo/icon.png</string>  
+                    </dict>
                 </array>
                 <key>metadata</key>
                 <dict>
